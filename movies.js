@@ -1,4 +1,3 @@
-// Step 1 - Convert this to a React Component
   function Movie({ data }) {
     const myStyle = {
         background: 'url(' + data.imageUrl + ')',
